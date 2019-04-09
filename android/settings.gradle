@@ -1,0 +1,3 @@
+rootProject.name = 'typeScriptDemo02'
+
+include ':app'
